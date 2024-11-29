@@ -1,6 +1,6 @@
 const jsonServer = require("json-server"); // import json-server library
 const server = jsonServer.create(); // create json-server instance
-const router = jsonServer.router('product_db.json'); // route to product json
+const router = jsonServer.router('laptop_data_with_images.json'); // route to product json
 const middleware = jsonServer.defaults(); // default middleware allows HTTP methods like POST, GET, PUT, DELETE
 
 // configuration .env
