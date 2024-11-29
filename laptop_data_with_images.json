@@ -9,7 +9,7 @@
         "ram_size": "8GB",
         "storage": "1024GB SSD",
         "price": 827.67,
-        "image_url": "https://via.placeholder.com/150?text=Laptop+1"
+        "image_url": "https://img.republicworld.com/tr:w-800,h-450,q-75,f-auto/rimages/wzdrsg7becovlnc2_1618387129_16_9.jpeg"
     },
     {
         "id": 2,
@@ -20,7 +20,7 @@
         "ram_size": "16GB",
         "storage": "512GB SSD",
         "price": 688.4,
-        "image_url": "https://via.placeholder.com/150?text=Laptop+2"
+        "image_url": "https://m.media-amazon.com/images/I/61UucaPmVtL.jpg"
     },
     {
         "id": 3,
@@ -31,7 +31,7 @@
         "ram_size": "32GB",
         "storage": "512GB SSD",
         "price": 425.97,
-        "image_url": "https://via.placeholder.com/150?text=Laptop+3"
+        "image_url": "https://m.media-amazon.com/images/I/6180jWSfpdL.jpg"
     },
     {
         "id": 4,
@@ -42,7 +42,7 @@
         "ram_size": "16GB",
         "storage": "1024GB SSD",
         "price": 1932.19,
-        "image_url": "https://via.placeholder.com/150?text=Laptop+4"
+        "image_url": "https://m.media-amazon.com/images/I/81kxce-AlLL.jpg"
     },
     {
         "id": 5,
@@ -53,7 +53,7 @@
         "ram_size": "16GB",
         "storage": "256GB SSD",
         "price": 1762.33,
-        "image_url": "https://via.placeholder.com/150?text=Laptop+5"
+        "image_url": "https://m.media-amazon.com/images/I/61zhCE0iV1L.jpg"
     },
     {
         "id": 6,
@@ -64,7 +64,7 @@
         "ram_size": "8GB",
         "storage": "512GB SSD",
         "price": 1261.8,
-        "image_url": "https://via.placeholder.com/150?text=Laptop+6"
+        "image_url": "https://m.media-amazon.com/images/I/81GrCeuCzxL.jpg"
     },
     {
         "id": 7,
@@ -75,7 +75,7 @@
         "ram_size": "16GB",
         "storage": "512GB SSD",
         "price": 1466.89,
-        "image_url": "https://via.placeholder.com/150?text=Laptop+7"
+        "image_url": "https://cdn.mos.cms.futurecdn.net/8Vm5ULytKHCNYyRkJM4RCC-320-80.png"
     },
     {
         "id": 8,
@@ -86,7 +86,7 @@
         "ram_size": "8GB",
         "storage": "256GB SSD",
         "price": 1575.16,
-        "image_url": "https://via.placeholder.com/150?text=Laptop+8"
+        "image_url": "https://cdn.mos.cms.futurecdn.net/Pzm2DLvRaJHcjjKs5fz2DJ-320-80.png"
     },
     {
         "id": 9,
@@ -97,7 +97,7 @@
         "ram_size": "32GB",
         "storage": "512GB SSD",
         "price": 1763.95,
-        "image_url": "https://via.placeholder.com/150?text=Laptop+9"
+        "image_url": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/vivobook-15-x1502za/vivobook-15-x1502za-terra-cotta-01-228x228.webp"
     },
     {
         "id": 10,
@@ -108,7 +108,7 @@
         "ram_size": "16GB",
         "storage": "1024GB SSD",
         "price": 696.89,
-        "image_url": "https://via.placeholder.com/150?text=Laptop+10"
+        "image_url": "https://cdn.mos.cms.futurecdn.net/thq2qfriaJoQCgUKmxNFXZ-320-80.jpg"
     },
     {
         "id": 11,
@@ -119,7 +119,7 @@
         "ram_size": "32GB",
         "storage": "256GB SSD",
         "price": 1073.16,
-        "image_url": "https://via.placeholder.com/150?text=Laptop+11"
+        "image_url": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/e410ma/e410ma-01-228x228.jpg"
     },
     {
         "id": 12,
@@ -130,7 +130,7 @@
         "ram_size": "32GB",
         "storage": "1024GB SSD",
         "price": 300.28,
-        "image_url": "https://via.placeholder.com/150?text=Laptop+12"
+        "image_url": "https://cdn.mos.cms.futurecdn.net/dUFvo9ekVM8WRZPVfpCTc3-320-80.jpg"
     },
     {
         "id": 13,
@@ -141,7 +141,7 @@
         "ram_size": "32GB",
         "storage": "256GB SSD",
         "price": 1560.37,
-        "image_url": "https://via.placeholder.com/150?text=Laptop+13"
+        "image_url": "https://cdn.mos.cms.futurecdn.net/5PDW7HKPcLduRJx6dXYYzB-320-80.jpg"
     },
     {
         "id": 14,
@@ -152,7 +152,7 @@
         "ram_size": "8GB",
         "storage": "512GB SSD",
         "price": 1239.73,
-        "image_url": "https://via.placeholder.com/150?text=Laptop+14"
+        "image_url": "https://cdn.mos.cms.futurecdn.net/j2rQJVKH5udRVee2WifBLZ-320-80.jpg"
     },
     {
         "id": 15,
@@ -163,7 +163,7 @@
         "ram_size": "16GB",
         "storage": "256GB SSD",
         "price": 1437.96,
-        "image_url": "https://via.placeholder.com/150?text=Laptop+15"
+        "image_url": "https://cdn.mos.cms.futurecdn.net/d9jbznssykRxTRXWG4X7KY-320-80.jpg"
     },
     {
         "id": 16,
@@ -174,7 +174,7 @@
         "ram_size": "32GB",
         "storage": "1024GB SSD",
         "price": 1628.7,
-        "image_url": "https://via.placeholder.com/150?text=Laptop+16"
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/2WC-000C-0FF75-01.jpg"
     },
     {
         "id": 17,
@@ -185,7 +185,7 @@
         "ram_size": "8GB",
         "storage": "512GB SSD",
         "price": 1424.04,
-        "image_url": "https://via.placeholder.com/150?text=Laptop+17"
+        "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/11/msi-katana-144hz-fhd-gaming-laptop.jpg"
     },
     {
         "id": 18,
@@ -196,29 +196,7 @@
         "ram_size": "32GB",
         "storage": "1024GB SSD",
         "price": 1449.53,
-        "image_url": "https://via.placeholder.com/150?text=Laptop+18"
-    },
-    {
-        "id": 19,
-        "title": "Long, Hoffman and Johnson Laptop",
-        "description": "Around cause move.",
-        "rating": 4.3,
-        "processor": "Intel i5",
-        "ram_size": "16GB",
-        "storage": "256GB SSD",
-        "price": 1869.87,
-        "image_url": "https://via.placeholder.com/150?text=Laptop+19"
-    },
-    {
-        "id": 20,
-        "title": "Fuller LLC Laptop",
-        "description": "Dog away page nice.",
-        "rating": 3.7,
-        "processor": "Intel i7",
-        "ram_size": "16GB",
-        "storage": "1024GB SSD",
-        "price": 523.99,
-        "image_url": "https://via.placeholder.com/150?text=Laptop+20"
+        "image_url": "https://m.media-amazon.com/images/I/71PDhncGBbL.jpg"
     }
 ]
 }
